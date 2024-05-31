@@ -1,4 +1,4 @@
-module github.com/slok/go-helm-template
+module github.com/freisenhauer/go-helm-template
 
 go 1.22.0
 
